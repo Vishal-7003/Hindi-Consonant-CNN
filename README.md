@@ -1,4 +1,6 @@
-<h1 align="center">CNN-based Multiclass Classification (36 Classes)</h1>
+# Handwriting-Recognition-and-Classification-of-Hindi-Consonants
+
+<h2 align="center">CNN-based Multiclass Classification (36 Classes)</h2>
 <br>
 <br>
 <img width="1536" height="1024" alt="cnn1" src="https://github.com/user-attachments/assets/ff3d81d9-97ab-403a-8b22-b21e4d2eff9d" />
